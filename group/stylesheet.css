@@ -264,6 +264,6 @@ h4,h3{
     font-family: "roboto", sans-serif;
 }
 .social{
-    display: left;
+    display: block;
 }
   
