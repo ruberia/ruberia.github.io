@@ -142,11 +142,7 @@ ul {
     padding: 60px;
 }
 
-input {
-    width: 8%; 
-   cursor: pointer;
-    
-}
+
 .loc1, .loc2, .loc3 {
     display: flex;
     justify-content: space-between;
